@@ -33,16 +33,21 @@ Skills
 
 ### Front-End
 
-* 등
+* HTML/CSS 
+* TyepeScript
+* Next.js
 
 ### DevOps
 
-* ㅎㅇㅎㅇ
+* HTML/CSS 
+* TyepeScript
+* Next.js
 
 ### 그외
 
 * 몸통박치기
 * 한번터져볼래
+* 진실의방
 
 
 
