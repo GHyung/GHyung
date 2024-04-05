@@ -23,15 +23,26 @@ Here are some ideas to get you started:
 어렸을적부터 컴퓨터를 다루는걸 좋아해서 진학을 어디
 
 
-스킬트리
+Skills
 
-### 스킬트리
+### Back-End
+
+* HTML/CSS 
+* TyepeScript
+* Next.js
+
+### Front-End
+
+* 등
+
+### DevOps
 
 * ㅎㅇㅎㅇ
 
-### 스킬트리
+### 그외
 
-* ㅎㅇㅎㅇ
+* 몸통박치기
+* 한번터져볼래
 
 
 
