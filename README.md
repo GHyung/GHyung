@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 어렸을적부터 컴퓨터를 다루는걸 좋아해서 진학을 어디
 
 
-### Dependencies
+스킬트리
+
+### 스킬트리
 
 * ㅎㅇㅎㅇ
 
-### Dependencies
+### 스킬트리
 
 * ㅎㅇㅎㅇ
 
