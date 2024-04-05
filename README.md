@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 날씨가 좋다 응
 
 <!--
 **GHyung/GHyung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-안녕하세요! 날씨가 좋은 개발자 김건형 입니다
+김건형 입니다
 강원도에서 첫재로 태어났으며 꾸준하고 열심히 일에 임하시는 아버지와 
 알뜰하시고 인상이 좋은 어머니의 
 자상한 지도로 바르고 정직하게 살아가는 가르침을 받으며 성장했습니다. 
